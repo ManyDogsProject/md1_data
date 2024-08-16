@@ -3,7 +3,7 @@
 
 - Created on 2024-01-23 by Jeffrey R. Stevens
   (<jeffrey.r.stevens@gmail.com>)
-- Finalized on 2024-05-02
+- Finalized on 2024-07-18
 
 This repository provides the complete data and reproducible research
 materials for the ManyDogs 1 project. This includes the following:
@@ -16,9 +16,9 @@ materials for the ManyDogs 1 project. This includes the following:
 If you use any of these materials, please cite:
 
 ManyDogs Project, Espinosa, J., Hare, E., Alberghina, D., Perez
-Valverde, B, & Stevens, J.R. (2024). Data for ManyDogs 1. *OSF
-Preprints*
-[doi:10.31219/osf.io/jw24a](https://doi.org/10.31219/osf.io/jw24a)
+Valverde, B, & Stevens, J.R. (2024). Data for ManyDogs 1. *Journal of
+Open Psychology Data*.
+[doi:10.5334/jopd.109](https://doi.org/10.5334/jopd.109)
 
 ## Summary
 
@@ -86,7 +86,7 @@ the license permits.
 | training_freq_scent      | Frequency of scent detection activities                                                                                                                                                                                   |
 | training_freq_search     | Frequency of search and rescue activities                                                                                                                                                                                 |
 | training_freq_sled       | Frequency of sled pulling activities                                                                                                                                                                                      |
-| training_freq_pullsport  | Frequency of skijoring/canicross/bikejoring activities                                                                                                                                                                    |
+| training_freq_pullsport  | Frequency of skijoring/canicross/bikejoring activities (attaching dogs to skiers/runners/bikers)                                                                                                                          |
 | training_freq_therapy    | Frequency of therapy dog activities                                                                                                                                                                                       |
 | training_freq_service    | Frequency of service dog activities                                                                                                                                                                                       |
 | training_freq_hunt       | Frequency of hunting/tracking activities                                                                                                                                                                                  |
@@ -312,7 +312,7 @@ description
 </td>
 <td>
 <code itemprop="description">The dataset from the paper
-<a href="https://doi.org/10.31219/osf.io/jw24a">Data for ManyDogs 1</a>.
+<a href="https://doi.org/10.5334/jopd.109">Data for ManyDogs 1</a>.
 In this project, pet dogs voluntarily participated in a two-alternative
 object choice task with ostensive and non-ostensive experimental
 conditions, along with warm-up (one cup, two cup) trials and an odor
@@ -344,7 +344,7 @@ sameAs
 citation
 </td>
 <td>
-<code itemprop="citation">https://doi.org/10.31219/osf.io/jw24a</code>
+<code itemprop="citation">https://doi.org/10.5334/jopd.109</code>
 </td>
 </tr>
 <tr>
